@@ -1,5 +1,5 @@
 <?php
 
-include_once("BAKARI_MAZE_1.html");
+include_once("BAKARI_MAZE_HOME.html");
 
 ?>
